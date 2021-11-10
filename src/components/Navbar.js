@@ -49,17 +49,7 @@ const MenuBars = styled(FaBars)`
         
     }
 `;
-// background-size: contain;
-// height: 40px;
-// width: 40px;
-// cursor: pointer;
-// position: absolute;
-// top: 0;
-//background-image: url(S{Bars})
-// right: 0;
-// background-color: black;
-// color: black;
-// transform: translate(-50, 25%)
+
 const NavMenu = styled.div`
     display: flex;
     align-items: center;
